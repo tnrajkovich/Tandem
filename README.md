@@ -2,7 +2,7 @@
 
 Built using Ruby version 2.7.1
 
-First, clone the tandem_code_challenge.rb file to a folder. Save down the question database json file in the same folder as the trivia challenge.
+To run, clone the tandem_code_challenge.rb file to a folder. Save down the question database json file in the same folder as the trivia challenge.
 
 Before running the program, make sure RubyGems is installed along with tty-prompt (documentation found here https://github.com/piotrmurach/tty-prompt).
 
